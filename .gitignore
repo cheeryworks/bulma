@@ -1,6 +1,7 @@
 # Files
 
 .DS_Store
+*.iml
 .ruby-version
 npm-debug.log
 test.css
