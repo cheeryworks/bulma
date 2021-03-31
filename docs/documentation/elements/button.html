@@ -31,6 +31,7 @@ meta:
 <button class="button is-dark">Dark</button>
 <button class="button is-black">Black</button>
 <button class="button is-text">Text</button>
+<button class="button is-ghost">Ghost</button>
 {% endcapture %}
 
 {% capture button_colors_b_example %}
@@ -581,8 +582,6 @@ meta:
 
 {% include elements/snippet.html wrapper="buttons" content=button_sizes_example %}
 
-{% include elements/new-tag.html version="0.7.4" %}
-
 <div class="content">
   <p>
     You can change the size of <strong>multiple buttons</strong> at once by wrapping them in a <code>buttons</code> parent, and applying one of 3 modifiers:
@@ -656,7 +655,6 @@ meta:
 
 <div class="columns">
   <div class="column">
-    {% include elements/new-tag.html version="0.6.2" %}
     <div class="buttons">
       {{ button_rounded_example }}
     </div>
@@ -821,8 +819,6 @@ meta:
 {% include elements/snippet.html content=button_group_addons_example %}
 
 {% include elements/anchor.html name="List of buttons" %}
-
-{% include elements/new-tag.html version="0.6.1" %}
 
 <div class="columns">
   <div class="column">
