@@ -29,10 +29,10 @@
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "clean-css-cli": "^5.2.2",
-    "postcss": "^8.2.9",
+    "postcss": "^8.2.10",
     "postcss-cli": "^8.3.1",
     "rimraf": "^3.0.2",
-    "sass": "^1.32.8"
+    "sass": "^1.32.11"
   },
   "scripts": {
     "build": "npm run build-sass && npm run build-autoprefix && npm run build-cleancss",
