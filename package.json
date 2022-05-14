@@ -1,6 +1,6 @@
 {
   "name": "@cheeryworks/bulma",
-  "version": "0.9.3-rc.0",
+  "version": "0.9.4-rc.0",
   "homepage": "https://bulma.io",
   "author": {
     "name": "Jeremy Thomas",
@@ -27,12 +27,12 @@
     "url": "https://github.com/jgthms/bulma/issues"
   },
   "devDependencies": {
-    "autoprefixer": "^10.2.5",
-    "clean-css-cli": "^5.2.2",
-    "postcss": "^8.2.10",
-    "postcss-cli": "^8.3.1",
+    "autoprefixer": "^10.4.7",
+    "clean-css-cli": "^5.6.0",
+    "postcss": "^8.4.13",
+    "postcss-cli": "^9.1.0",
     "rimraf": "^3.0.2",
-    "sass": "^1.32.11"
+    "sass": "^1.51.0"
   },
   "scripts": {
     "build": "npm run build-sass && npm run build-autoprefix && npm run build-cleancss",

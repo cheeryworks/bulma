@@ -1,249 +1,152 @@
 {
-  "10": [
-    {
-      "name": "Beth LeBeau",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "divby0",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Nikola",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Steen Jakobsen",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Osvalds Ozolnieks",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Steve Trambert",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "J.T. Feng",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Felipe Lujan-Bear",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Matthew Tole",
-      "twitter": "matthewtole",
-      "start_timestamp": null
-    },
-    {
-      "name": "Benjamin Gorez",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Mike Moran",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Manish Malik",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Walter Tommasi",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "James Dernie",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Eric Doversberger",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Ian Ebden",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Thomas Klinger",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Tanel Jõeäär",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Giovanni Panozzo",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Hernán Zubiri",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Andriy Andriyuk",
-      "twitter": "",
-      "start_timestamp": null
-    }
-  ],
-  "30": [
-    {
-      "name": "Arturas",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Al Romano",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Harald Maida",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Harley Hicks",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Brooke Schreier Ganz",
-      "twitter": "Asparagirl",
-      "start_timestamp": null
-    },
-    {
-      "name": "Clemens Gallhuber",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Dan Weaver",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Neil Dingeldein",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Lord ",
-      "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Leonardo Eiji Koshimura",
-      "twitter": "lekoshimura",
-      "start_timestamp": null
-    }
-  ],
+  "10": [],
+  "30": [],
   "100": [
     {
-      "name": "Iaroslav Baklan",
+      "name": "Jim ",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1651142918997
+    },
+    {
+      "name": "Xoo",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1650968572596
+    },
+    {
+      "name": "Casinozondercruks.net",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1650907103737
+    },
+    {
+      "name": "D-Digital",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1649175123170
+    },
+    {
+      "name": "Aamir Javeed",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1648632088308
     },
     {
       "name": "Iaroslav Baklan",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1644313256061
     },
     {
-      "name": "Raj.bet",
+      "name": "Amelia Cook",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1642153516722
     },
     {
-      "name": "Maurice Perry",
+      "name": "Khayriddin Sodiqov",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1641029101064
     },
     {
-      "name": "xvxx",
+      "name": "List.Casino",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1640116908039
     },
     {
-      "name": "Greg Hale",
+      "name": "PapersOwl ",
       "twitter": "",
-      "start_timestamp": null
-    }
-  ],
-  "300": [
-    {
-      "name": "Jason Seminara",
-      "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1638878086598
     },
     {
-      "name": "Stuart Stanfield",
+      "name": "CasinosHunter",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1638614832341
     },
     {
-      "name": "Jordan Nemrow",
+      "name": "seo pmi",
       "twitter": "",
-      "start_timestamp": null
-    }
-  ],
-  "500": [
+      "discord": "",
+      "start_timestamp": 1636618754871
+    },
     {
-      "name": "MonoVM ",
+      "name": "Viktor & Steve Scott (NonGamStopWager.com)",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1636065462475
+    },
+    {
+      "name": "Joe Kizlauskas",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1634471312654
+    },
+    {
+      "name": "DEMETRIOU ANNA",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1626430360625
+    },
+    {
+      "name": "Harvey Walters",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1625558484646
+    },
+    {
+      "name": "Sarah Johnson",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1623076067965
+    },
+    {
+      "name": "Gianni Museeuw",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1620983234560
+    },
+    {
+      "name": "KasynoHEX.com",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1620833222427
+    },
+    {
+      "name": "123Calendars",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1604301162614
+    },
+    {
+      "name": "Iaroslav Baklan",
+      "twitter": "",
+      "discord": "",
+      "start_timestamp": 1603284124728
     },
     {
       "name": "Fintan Costello",
       "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1584543130317
     },
     {
       "name": "Adela Belin",
       "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Sparheld International GmbH",
-      "twitter": "",
-      "start_timestamp": null
+      "discord": "",
+      "start_timestamp": 1564990235335
     },
     {
       "name": "Robert Bolder",
       "twitter": "",
-      "start_timestamp": null
-    },
-    {
-      "name": "Garry Newman",
-      "twitter": "garrynewman",
-      "start_timestamp": null
-    },
-    {
-      "name": "Adrian Ocneanu",
-      "twitter": "aocneanu",
-      "start_timestamp": null,
-      "website_url": "https://www.earthlink.ro/",
-      "website_name": "Earthlink"
+      "discord": "",
+      "start_timestamp": 1546590184071
     }
-  ]
+  ],
+  "300": [],
+  "500": []
 }

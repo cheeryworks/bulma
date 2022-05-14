@@ -67,12 +67,12 @@
     },
     "$yellow": {
       "name": "$yellow",
-      "value": "hsl(48,  100%, 67%)",
+      "value": "hsl(44,  100%, 77%)",
       "type": "color"
     },
     "$green": {
       "name": "$green",
-      "value": "hsl(141, 53%,  53%)",
+      "value": "hsl(153, 53%,  53%)",
       "type": "color"
     },
     "$turquoise": {
@@ -82,12 +82,12 @@
     },
     "$cyan": {
       "name": "$cyan",
-      "value": "hsl(204, 71%,  53%)",
+      "value": "hsl(207, 61%,  53%)",
       "type": "color"
     },
     "$blue": {
       "name": "$blue",
-      "value": "hsl(217, 71%,  53%)",
+      "value": "hsl(229, 53%,  53%)",
       "type": "color"
     },
     "$purple": {
@@ -215,6 +215,11 @@
       "value": "true",
       "type": "boolean"
     },
+    "$breakpoints": {
+      "name": "$breakpoints",
+      "value": "(\"mobile\": (\"until\": $tablet), \"tablet\": (\"from\": $tablet), \"tablet-only\": (\"from\": $tablet, \"until\": $desktop), \"touch\": (\"from\": $desktop), \"desktop\": (\"from\": $desktop), \"desktop-only\": (\"from\": $desktop, \"until\": $widescreen), \"until-widescreen\": (\"until\": $widescreen), \"widescreen\": (\"from\": $widescreen), \"widescreen-only\": (\"from\": $widescreen, \"until\": $fullhd), \"until-fullhd\": (\"until\": $fullhd), \"fullhd\": (\"from\": $fullhd))",
+      "type": "compound"
+    },
     "$easing": {
       "name": "$easing",
       "value": "ease-out",
@@ -237,7 +242,7 @@
     },
     "$radius-rounded": {
       "name": "$radius-rounded",
-      "value": "290486px",
+      "value": "9999px",
       "type": "size"
     },
     "$speed": {
@@ -300,6 +305,7 @@
     "$widescreen-enabled",
     "$fullhd",
     "$fullhd-enabled",
+    "$breakpoints",
     "$easing",
     "$radius-small",
     "$radius",

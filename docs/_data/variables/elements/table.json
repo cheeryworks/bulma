@@ -36,6 +36,11 @@
       "computed_type": "color",
       "computed_value": "hsl(0, 0%, 21%)"
     },
+    "$table-cell-text-align": {
+      "name": "$table-cell-text-align",
+      "value": "left",
+      "type": "string"
+    },
     "$table-head-cell-border-width": {
       "name": "$table-head-cell-border-width",
       "value": "0 0 2px",
@@ -114,8 +119,8 @@
       "name": "$table-colors",
       "value": "$colors",
       "type": "variable",
-      "computed_type": "function",
-      "computed_value": "mergeColorMaps((\"white\": ($white, $black), \"black\": ($black, $white), \"light\": ($light, $light-invert), \"dark\": ($dark, $dark-invert), \"primary\": ($primary, $primary-invert, $primary-light, $primary-dark), \"link\": ($link, $link-invert, $link-light, $link-dark), \"info\": ($info, $info-invert, $info-light, $info-dark), \"success\": ($success, $success-invert, $success-light, $success-dark), \"warning\": ($warning, $warning-invert, $warning-light, $warning-dark), \"danger\": ($danger, $danger-invert, $danger-light, $danger-dark)), $custom-colors)"
+      "computed_type": "map",
+      "computed_value": "Bulma colors"
     }
   },
   "list": [
@@ -125,6 +130,7 @@
     "$table-cell-border-width",
     "$table-cell-padding",
     "$table-cell-heading-color",
+    "$table-cell-text-align",
     "$table-head-cell-border-width",
     "$table-head-cell-color",
     "$table-foot-cell-border-width",
